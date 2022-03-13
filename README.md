@@ -1,3 +1,3 @@
 # About the project
 
-A simple demo demostrate how to use npm and parcel
+A simple demo demostrates how to use npm and parcel
